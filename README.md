@@ -1,5 +1,6 @@
-# AMC_final
+# AMC final
 Herkansing eHealth Maken
+https://framer.cloud/OYGRv
 
 # Proof of Concept
 Afgelopen jaren zijn er al meerdere keren concepten en ontwerpen ontwikkeld door studenten van Communicatie and Multimedia Design, voor een applicatie die het AMC kan gebruiken. Deze applicatie is bedoeld voor BDD patiënten die zij behandelen, zodat zij geen terugval zullen krijgen na de behandelingen. Dit keer is het onze taak geweest om dit verder uit te werken. De documentatie die wij overhandigd hebben gekregen kwam van afgestudeerde Salahddin El Kawakibi. Dit hebben wij verder proberen uit te werken met onze eigen visie hierin. Bij dit project was ik verantwoordelijk voor de datavisualisatie en de hierarchie. De uitdaging bij dit project was voornamelijk het aanpassen van iemand anders zijn werk. We begonnen niet vanaf 0, we hadden al dergelijke ontwerpen en concepten liggen. Hier zijn wij verder op gaan borduren.
